@@ -45,7 +45,7 @@ public class Slider extends AppCompatActivity {
                     viewPager.setCurrentItem(viewPager.getCurrentItem()+1);
                 }else
                 {
-                    startActivity(new Intent(getApplicationContext(), MainActivity.class));
+                    startActivity(new Intent(getApplicationContext(), Login.class));
                     finish();
                 }
             }

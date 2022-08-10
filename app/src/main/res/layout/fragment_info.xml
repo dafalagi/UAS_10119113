@@ -36,11 +36,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/poppins_regular"
-        android:text="Dibuat Untuk : Memenuhi Tugas Mata Kuliah AKB UNIKOM"
+        android:text="Dibuat Untuk : Memenuhi UAS Mata Kuliah AKB UNIKOM"
         android:textColor="#00838F"
         android:textSize="20sp"
         android:textStyle="bold"
-        android:layout_marginStart="40dp"/>
+        android:layout_marginStart="40dp"
+        android:layout_marginEnd="20dp"/>
 
     <TextView
         android:id="@+id/text_view6"
@@ -58,7 +59,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/poppins_regular"
-        android:text="Tanggal Rilis : 4 Juni 2022"
+        android:text="Tanggal Rilis : 12 Agustus 2022"
         android:textColor="#00838F"
         android:textSize="20sp"
         android:textStyle="bold"
@@ -69,7 +70,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/poppins_regular"
-        android:text="Versi Aplikasi : 1"
+        android:text="Versi Aplikasi : 1.0"
         android:textColor="#00838F"
         android:textSize="20sp"
         android:textStyle="bold"
@@ -80,7 +81,18 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/poppins_regular"
-        android:text="Pembaharuan Terakhir : 4 Juni 2022"
+        android:text="Pembaharuan Terakhir : "
+        android:textColor="#00838F"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginStart="40dp"/>
+
+    <TextView
+        android:id="@+id/text_view12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_regular"
+        android:text="12 Agustus 2022"
         android:textColor="#00838F"
         android:textSize="20sp"
         android:textStyle="bold"

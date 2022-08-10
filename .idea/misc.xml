@@ -3,7 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Sinon/Projects/Android/UAS_10119113/app/src/main/res/drawable/round_button.xml" value="0.1445" />
+        <entry key="..\:/Sinon/Projects/Android/UAS_10119113/app/src/main/res/drawable/round_button_white.xml" value="0.1445" />
+        <entry key="..\:/Sinon/Projects/Android/UAS_10119113/app/src/main/res/layout/activity_add_note.xml" value="0.25" />
+        <entry key="..\:/Sinon/Projects/Android/UAS_10119113/app/src/main/res/layout/activity_edit_note.xml" value="0.20416666666666666" />
+        <entry key="..\:/Sinon/Projects/Android/UAS_10119113/app/src/main/res/layout/activity_login.xml" value="0.22" />
         <entry key="..\:/Sinon/Projects/Android/UAS_10119113/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Sinon/Projects/Android/UAS_10119113/app/src/main/res/layout/activity_note_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/Sinon/Projects/Android/UAS_10119113/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/Sinon/Projects/Android/UAS_10119113/app/src/main/res/layout/content_note_details.xml" value="0.22" />
+        <entry key="..\:/Sinon/Projects/Android/UAS_10119113/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Sinon/Projects/Android/UAS_10119113/app/src/main/res/layout/fragment_info.xml" value="0.20416666666666666" />
+        <entry key="..\:/Sinon/Projects/Android/UAS_10119113/app/src/main/res/layout/fragment_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Sinon/Projects/Android/UAS_10119113/app/src/main/res/layout/notes_list.xml" value="0.25" />
+        <entry key="..\:/Sinon/Projects/Android/UAS_10119113/app/src/main/res/layout/slider_1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Sinon/Projects/Android/UAS_10119113/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Sinon/Projects/Android/UAS_10119113/app/src/main/res/menu/detail_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Sinon/Projects/Android/UAS_10119113/app/src/main/res/menu/home_menu.xml" value="0.203125" />
+        <entry key="..\:/Sinon/Projects/Android/UAS_10119113/app/src/main/res/menu/save_menu.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
